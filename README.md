@@ -1,2 +1,18 @@
 # wordpress-project
 This is wordpress project
+![2024-06-26 (1)](https://github.com/Saloni564/wordpress-project/assets/160017552/f91822a3-0b7c-4430-bc55-aaab5c288446)
+![2024-06-26 (15)](https://github.com/Saloni564/wordpress-project/assets/160017552/d6334eb7-89e0-4f2f-9704-b9aede6b77c6)
+![2024-06-26 (16)](https://github.com/Saloni564/wordpress-project/assets/160017552/ebbdd630-c5f8-4989-a8c8-7226a7aa6e8e)
+![2024-06-26 (17)](https://github.com/Saloni564/wordpress-project/assets/160017552/90fde26d-909c-45e9-8af6-57a34f49df5d)
+![2024-06-26 (18)](https://github.com/Saloni564/wordpress-project/assets/160017552/f71e1db1-72d2-4c42-bb4d-0cc2a032f7c5)
+![2024-06-26 (19)](https://github.com/Saloni564/wordpress-project/assets/160017552/a6483022-edb4-4756-a591-064251a28551)
+![2024-06-26 (20)](https://github.com/Saloni564/wordpress-project/assets/160017552/15f60d6e-05cd-47da-92fd-a73e1a28efff)
+![2024-06-26 (21)](https://github.com/Saloni564/wordpress-project/assets/160017552/4c3ae458-2cd5-49d8-8f07-82c0540f699c)
+![2024-06-26 (22)](https://github.com/Saloni564/wordpress-project/assets/160017552/80e26282-7c1b-4405-9462-ef9b1e798d18)
+![2024-06-26 (23)](https://github.com/Saloni564/wordpress-project/assets/160017552/307f42f4-acff-4a3a-88d0-9eee5f6a168b)
+![2024-06-26 (24)](https://github.com/Saloni564/wordpress-project/assets/160017552/a1eb9fd1-70e3-4957-9e1b-ab57f58df526)
+![2024-06-26 (25)](https://github.com/Saloni564/wordpress-project/assets/160017552/5cc8ef76-5ae4-4ad8-a29a-a2b512085374)
+![2024-06-26 (26)](https://github.com/Saloni564/wordpress-project/assets/160017552/f5f83aa8-316a-46eb-828f-9b62927e5e07)
+![2024-06-26 (27)](https://github.com/Saloni564/wordpress-project/assets/160017552/fbe65667-fc39-4929-9a91-2a8aea830d83)
+![2024-06-26 (28)](https://github.com/Saloni564/wordpress-project/assets/160017552/7e1184a3-d4f0-405c-8e74-6a4c45235882)
+![2024-06-26 (29)](https://github.com/Saloni564/wordpress-project/assets/160017552/2dcb9569-2eb0-4f00-84ad-58e5bff37591)
